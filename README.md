@@ -4,4 +4,4 @@
 ***Note: you need to have your own database, This project is not fully completed, you can add anything you want***
 
 # Preview
-![alt text](Screenshots/1.png)
+![](Screenshots/1.png)
